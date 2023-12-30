@@ -6,5 +6,5 @@ The objective of this webpage is to create a layout so that anyone can put in th
 Image by Christel SAGNIEZ from Pixabay
 Image by PublicDomainPictures from Pixabay
 Image by Diego Edits from Pixabay
-Image by Imagine Arts inc from Pixabay
 Image by Manoj Mahadik from Pixabay
+Image by 🌸♡💙♡🌸 Julita 🌸♡💙♡🌸 from Pixabay
