@@ -68,12 +68,12 @@ main #awesome #awesome-img {
     color: whitesmoke;
     font-size: 16px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
+    
 }
 
 main #awesome #awesome-img img{
-    
+    flex: 1;
 }
 
 main #random-information {
@@ -110,10 +110,18 @@ main #random-information #illustrations .illustration .illustration-img {
     flex: 2;
     border: solid #3882F6 4px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    overflow: hidden;
 }
 
 main #random-information #illustrations .illustration .illustration-img img {
-    
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    flex: 1;
+    object-fit: cover;
 }
 
 main #random-information #illustrations .illustration p {
