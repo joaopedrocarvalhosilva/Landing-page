@@ -15,9 +15,54 @@ header p {
 }
 
 header nav a{
-    margin: 0 20px;
+    margin-left: 20px;
     text-decoration: none;
     color: whitesmoke;
+    font-size: 16px;
 }
 
+main #awesome {
+    background-color: #1F2937;
+    display: flex;
+    padding: 100px 200px;
+    justify-content: space-between;
+}
 
+main #awesome #awesome-text {
+    flex: 1;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    gap: 20px;
+}
+
+main #awesome #awesome-text h1 {
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+main #awesome #awesome-text p {
+    color: lightgray;
+    font-size: 16px;
+
+}
+
+main #awesome #awesome-text button {
+    background-color: #3882F6;
+    color: whitesmoke;
+    border-radius: 20px;
+}
+
+main #awesome #awesome-img {
+    flex: 2;
+    height: 200px;
+    background-color: gray;
+    color: whitesmoke;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
