@@ -78,6 +78,11 @@ main #random-information {
     font-size: 30px;
 }
 
+main #random-information h2 {
+    color: #1F2937;
+    font-size: 30px;
+}
+
 main #random-information #illustrations {
     display: flex;
     flex-direction: row;
@@ -104,4 +109,11 @@ main #random-information #illustrations .illustration p {
     flex: 1;
     text-align: center;
     font-size: 16px;
+}
+
+main #inpiring-quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
 }
